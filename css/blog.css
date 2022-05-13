@@ -1,0 +1,80 @@
+.container {
+  border-radius: 20px;
+  background-color: rgb(235, 239, 243);
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+.top-head {
+  margin: auto;
+  border-radius: 20px;
+  color: orange;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: rgb(246, 247, 248);
+  text-align: center;
+}
+.image {
+  margin-left: 20px;
+}
+body {
+  border: 5px solid rgb(235, 234, 236);
+}
+.price {
+  margin-left: 65px;
+  color: rgb(32, 184, 58);
+}
+p {
+  margin-left: 15px;
+}
+.shipping {
+  margin-left: 20px;
+  color: rgb(122, 121, 121);
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: bold;
+}
+.product {
+  margin-left: 20px;
+  text-transform: uppercase;
+}
+.link:hover {
+  margin-left: 15px;
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
+}
+.link:link {
+  margin-left: 15px;
+  color: rgb(54, 50, 50);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.list ul {
+  list-style: square;
+}
+.card {
+  background-color: rgb(54, 207, 207);
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 80%;
+  margin-bottom: 10px;
+  margin-left: 40px;
+}
+.buy {
+  background-color: rgb(54, 207, 207);
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 80%;
+  margin-bottom: 10px;
+  margin-left: 40px;
+}
+.card:hover {
+  background-color: azure;
+  color: black;
+}
+.buy:hover {
+  background-color: azure;
+  color: black;
+}

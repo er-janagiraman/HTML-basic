@@ -1,0 +1,49 @@
+.top-header {
+  background-color: aliceblue;
+}
+.article-header {
+  background-color: rgb(240, 234, 234);
+}
+.footer {
+  text-align: center;
+  background-color: rgb(197, 255, 255);
+}
+a:link {
+  color: rgb(240, 141, 28);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(129, 11, 207);
+  text-decoration: underline;
+}
+a:hover {
+  color: rgb(234, 238, 18);
+  font-weight: bold;
+}
+a:active {
+  color: rgb(243, 19, 19);
+  font-style: italic;
+}
+p {
+  line-height: 1.5;
+  font-family: "Lato", sans-serif;
+}
+h1 {
+  font-family: "ZCOOL QingKe HuangYou", cursive;
+}
+h2,
+h3,
+h4 {
+  font-family: "Shizuru", cursive;
+  color: rgb(14, 143, 143);
+}
+li,
+p,
+a {
+  font-family: "Lato", sans-serif;
+  line-height: 1.5;
+}
+body {
+  background-color: rgb(208, 240, 240);
+}
